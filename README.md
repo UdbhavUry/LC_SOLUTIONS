@@ -9,16 +9,23 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 <!---LeetCode Topics End-->
