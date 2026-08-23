@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1927-sum-game/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -28,4 +29,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1927-sum-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1927-sum-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
