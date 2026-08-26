@@ -2,37 +2,29 @@ class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
         int n = bloomDay.size();
-        int l = *min_element(bloomDay.begin(), bloomDay.end());
-        int r = *max_element(bloomDay.begin(), bloomDay.end());
-        long long tflowers =1ll* m * k;
-        if (tflowers > n) {
-            return -1;
-        }
+        if((long long)m*k> bloomDay.size()) return -1;
 
-        while (l < r) {
-            int mid = l + (r - l) / 2;
-            int flowers = 0;
-            int bouquets = 0;
-            for (int bloom : bloomDay) {
-                if (bloom <= mid) {
-                    flowers++;
-                    if (flowers == k) {
-                        bouquets++;
-                        flowers = 0;
-                    }
-                } else {
-                    flowers = 0;
+        int maxi = INT_MIN;
+        for(int i = 0;i < n;i++) maxi = max(maxi,bloomDay[i]);
+
+        int low = 0, high = maxi;
+        while(low <= high){
+            int mid = low + (high-low)/2;//no days passed
+
+            int cnt = 0,bq=0;
+            for(int i = 0; i < n;i++){
+                if(bloomDay[i]<=mid){
+                    cnt++;
+                }else cnt = 0;
+                if(cnt==k){
+                    bq++;
+                    cnt = 0;
                 }
             }
-         
-
-            if (bouquets >= m) {
-                r = mid;
-            } else {
-                l = mid + 1;
-            }
+            
+            if(bq>=m) high = mid - 1;
+            else low = mid + 1;
         }
-
-        return l;
+        return low;
     }
 };
