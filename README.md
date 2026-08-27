@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0739-daily-temperatures](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -22,11 +23,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0739-daily-temperatures](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0739-daily-temperatures](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
