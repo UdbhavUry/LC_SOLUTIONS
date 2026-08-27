@@ -41,6 +41,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [1927-sum-game](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -69,6 +70,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Binary Search
