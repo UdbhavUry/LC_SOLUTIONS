@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0735-asteroid-collision](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0735-asteroid-collision](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Monotonic Stack
@@ -103,5 +105,6 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0735-asteroid-collision/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
