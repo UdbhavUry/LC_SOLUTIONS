@@ -18,6 +18,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1872-stone-game-viii](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1872-stone-game-viii/) | Hard |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
