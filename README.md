@@ -22,6 +22,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Binary Search
@@ -124,4 +126,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 <!---LeetCode Topics End-->
