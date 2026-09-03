@@ -1,12 +1,16 @@
 class Solution {
 public:
-void dfs(int node, unordered_map<int,vector<int>>&graph,vector<int>&visited){
-    visited[node]=1;
-    for(int nbr:graph[node]){
+bool dfs(int node, unordered_map<int,vector<int>>& graph, vector<int>& visited, int dest){
+    if(node == dest) return true;
+    
+    visited[node] = 1;
+    
+    for(int nbr : graph[node]){
         if(!visited[nbr]){
-            dfs(nbr,graph,visited);
+            if(dfs(nbr, graph, visited, dest)) return true;
         }
     }
+    return false;
 }
  bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
          unordered_map<int ,vector<int>>graph;
@@ -17,11 +21,8 @@ void dfs(int node, unordered_map<int,vector<int>>&graph,vector<int>&visited){
             graph[b].push_back(a);
          }
          vector<int>visited(n+1);
-         dfs(source,graph,visited);
-         if(!visited[destination]){
-            return false;
-         }
-         return true;
+         return dfs(source,graph,visited,destination);
+        
          
     }
 };
