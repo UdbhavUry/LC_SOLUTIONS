@@ -50,12 +50,14 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0115-distinct-subsequences/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1872-stone-game-viii](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1872-stone-game-viii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0115-distinct-subsequences/) | Hard |
 | [0205-isomorphic-strings](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [1927-sum-game](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
