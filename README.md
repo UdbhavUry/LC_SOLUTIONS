@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0735-asteroid-collision](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0735-asteroid-collision/) | Medium |
@@ -101,6 +102,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Sliding Window
@@ -160,4 +162,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
