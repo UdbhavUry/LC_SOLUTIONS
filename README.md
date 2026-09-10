@@ -158,6 +158,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,4 +167,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 <!---LeetCode Topics End-->
