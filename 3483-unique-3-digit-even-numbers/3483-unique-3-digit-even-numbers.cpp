@@ -1,41 +1,36 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-    int freq[10] = {0};
+        int cnt[10] = {};
 
-    // Count frequency
-    for (int d : digits) {
-        freq[d]++;
-    }
+        for (int d : digits)
+            cnt[d]++;
 
-    int count = 0;
+        int res = 0;
 
-    // Try all 3-digit even numbers
-    for (int num = 100; num <= 999; num++) {
-        if (num % 2 != 0) continue; // must be even
+        for (int a = 1; a <= 9; a++) {
+            if (cnt[a] == 0)
+                continue;
 
-        int a = num / 100;
-        int b = (num / 10) % 10;
-        int c = num % 10;
+            cnt[a]--;
 
-        int need[10] = {0};
-        need[a]++;
-        need[b]++;
-        need[c]++;
+            for (int b = 0; b <= 9; b++) {
+                if (cnt[b] == 0)
+                    continue;
 
-        bool valid = true;
+                cnt[b]--;
 
-        for (int d = 0; d < 10; d++) {
-            if (need[d] > freq[d]) {
-                valid = false;
-                break;
+                for (int c = 0; c <= 8; c += 2) {
+                    if (cnt[c] > 0)
+                        res++;
+                }
+
+                cnt[b]++;
             }
+
+            cnt[a]++;
         }
 
-        if (valid) count++;
+        return res;
     }
-
-    return count;
-}
-
 };
