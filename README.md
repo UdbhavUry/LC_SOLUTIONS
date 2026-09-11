@@ -27,6 +27,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -96,6 +97,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -116,6 +118,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Two Pointers
@@ -175,4 +178,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
