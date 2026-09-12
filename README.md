@@ -27,6 +27,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -58,6 +59,7 @@
 | [0152-maximum-product-subarray](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1872-stone-game-viii](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1872-stone-game-viii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
