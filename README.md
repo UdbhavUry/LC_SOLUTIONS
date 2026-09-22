@@ -17,6 +17,7 @@
 | [0001-two-sum](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0735-asteroid-collision](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
@@ -98,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0205-isomorphic-strings](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -137,6 +139,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Sorting
