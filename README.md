@@ -68,6 +68,7 @@
 | [0205-isomorphic-strings](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [1927-sum-game](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
@@ -136,6 +137,7 @@
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/0735-asteroid-collision/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/UdbhavUry/LC_SOLUTIONS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
